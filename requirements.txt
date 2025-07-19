@@ -1,8 +1,4 @@
-datetime
-regex
-streamlit 
+streamlit
 pandas
-matplotlib.pyplot 
-seaborn 
-random
-typing
+matplotlib
+seaborn
