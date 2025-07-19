@@ -2,10 +2,7 @@ datetime
 regex
 streamlit 
 pandas
-os
-time
 matplotlib.pyplot 
 seaborn 
 random
-time
 typing
